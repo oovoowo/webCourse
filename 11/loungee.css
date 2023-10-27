@@ -17,3 +17,17 @@ body{
 em {
   font-family: "Cascadia Mono"; /* 注意双引号这个细节，想想原因 */
 }
+body{
+	color: royalblue;
+	color: rgb(65, 105, 225);
+	color: #4169E1CC;
+	color: rgba(39,177,182,0.8);
+	color: #2775b6CC;
+	color:rgb(242,202,201);
+	color:rgb(238,166,183);
+}
+p {
+  font-style: italic;
+	text-decoration:none;
+}
+a{	text-decoration:none;}
