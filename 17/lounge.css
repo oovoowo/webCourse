@@ -21,10 +21,29 @@ h2 {
   border-style:        dashed;
   background-color:    #a7cece;
   padding:             25px; 
+	padding-left:        80px;
   margin:              30px;  /* 新增外边距 */
 	line-height:         1.9em;
 	font-style:          italic;
 	font-family:         Georgia, 'Times New Roman';
 	color: #444;
+  background-image:url(images/background.gif);
+  background-repeat:no-repeat;
+	background-position: top left;
+	margin-right: 250px;
+  
+}
 
+p{
+border-style: dashed;
+border-color: white;
+border-top-right-radius: 2em;
+border-bottom-left-radius: 2em;
+}
+.sb{
+width: 500px;
+height: 500px;
+border-radius: 250px ;
+
+background-color: aqua;
 }
