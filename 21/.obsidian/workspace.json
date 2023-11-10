@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "bcff50490cd66aa9",
+    "id": "14cc168ec43f6b94",
     "type": "split",
     "children": [
       {
-        "id": "731a7f239d0ed3d7",
+        "id": "d4a4cecc05a53f34",
         "type": "tabs",
         "children": [
           {
-            "id": "5123941cd4a013ba",
+            "id": "104c6eeb8011b6ee",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "81d8a605092da109",
+    "id": "910140f22bbf3534",
     "type": "split",
     "children": [
       {
-        "id": "1281b49f8cdccd06",
+        "id": "681fd1ee0d143504",
         "type": "tabs",
         "children": [
           {
-            "id": "3d11a86ac8917c07",
+            "id": "ec387a2d8942ca96",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "acd16c37ff4709fb",
+            "id": "db5f983c894e1cfd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "34b8278afc1a2bbb",
+            "id": "94efb43f50a2d665",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "918b709e0750a04e",
+    "id": "1f6f2bf51f91c603",
     "type": "split",
     "children": [
       {
-        "id": "3429528f74541d88",
+        "id": "62dfe4ff61dc36ff",
         "type": "tabs",
         "children": [
           {
-            "id": "0f9ac1d1a05c9b29",
+            "id": "4d8d6e89551b84a6",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "4882775c9237a022",
+            "id": "2294f19e5099206e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "fca73b8e07439a67",
+            "id": "f2d3a0aebd4ef1b7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "0b8712f52c027030",
+            "id": "a78bf27c7383b701",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -138,28 +138,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5123941cd4a013ba",
-  "lastOpenFiles": [
-    "21/lounge-print.css",
-    "21/lounge-mobile.css",
-    "21/lounge.html",
-    "21/lounge.css",
-    "21/images/yellow.gif",
-    "21/images/red.jpg",
-    "21/images/red.gif",
-    "21/images/logo.gif",
-    "21/images/lightblue.jpg",
-    "21/images/lightblue.gif",
-    "21/images/green.jpg",
-    "21/images/green.gif",
-    "21/images/drinks.gif",
-    "21/images/cocktail.gif",
-    "21/images",
-    "21/beverages/elixir.html",
-    "21/beverages",
-    "21/about/directions.html",
-    "21/about",
-    "21",
-    "新建文件夹"
-  ]
+  "active": "104c6eeb8011b6ee",
+  "lastOpenFiles": []
 }
