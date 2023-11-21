@@ -13,6 +13,7 @@
   background-color: lightsteelblue;
   /* 为什么要给边框 */
   border:thin solid lightsteelblue;
+
 }
 .child {
   width: 10vw;
@@ -21,4 +22,13 @@
   padding: 5px;
   background-color:navy;
   color: white;
+}
+.move {
+  position: absolute;
+  top: -20px;
+  left: 20px;
+}
+
+.m1{
+position: relative;
 }
